@@ -1,1 +1,1 @@
-# test
+git commit -am "commit message"
